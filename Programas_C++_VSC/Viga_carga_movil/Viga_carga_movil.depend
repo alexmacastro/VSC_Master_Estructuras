@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1419750925 source:c:\documents and settings\alejandro\mis documentos\curso2014_2015\vibraciones_master\viga_carga_movil\viga_carga_movil.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<string>
+
+1419754525 source:c:\documents and settings\alejandro\mis documentos\curso2015_2016\vsc\vsc1516_semana3_axiltorsion_vigas\programas_c++_vsc\viga_carga_movil\viga_carga_movil.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<string>
+

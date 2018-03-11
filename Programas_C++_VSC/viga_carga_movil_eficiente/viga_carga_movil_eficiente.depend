@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1419936340 source:c:\documents and settings\alejandro\mis documentos\curso2014_2015\vibraciones_master\viga_carga_movil_eficiente\viga_carga_movil_eficiente.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<string>
+	<new>
+

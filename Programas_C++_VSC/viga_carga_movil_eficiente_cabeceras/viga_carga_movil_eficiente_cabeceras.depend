@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1419152211 source:c:\documents and settings\alejandro\mis documentos\curso2014_2015\vibraciones_master\viga_carga_movil_eficiente_cabeceras\viga_carga_movil_eficiente_cabeceras.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<string>
+	<new>
+	"./src/Viga.cpp"
+	"./src/funciones_viga.cpp"
+	"./include/Viga.h"
+	"./include/funciones_viga.h"
+
+1419153417 c:\documents and settings\alejandro\mis documentos\curso2014_2015\vibraciones_master\viga_carga_movil_eficiente_cabeceras\src\viga.cpp
+	"../include/Viga.h"
+	<fstream>
+	<iostream>
+
+1419152848 c:\documents and settings\alejandro\mis documentos\curso2014_2015\vibraciones_master\viga_carga_movil_eficiente_cabeceras\include\viga.h
+
+1419153417 source:c:\documents and settings\alejandro\mis documentos\curso2014_2015\vibraciones_master\viga_carga_movil_eficiente_cabeceras\src\viga.cpp
+	"../include/Viga.h"
+	<fstream>
+	<iostream>
+
+1419152268 c:\documents and settings\alejandro\mis documentos\curso2014_2015\vibraciones_master\viga_carga_movil_eficiente_cabeceras\src\funciones_viga.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<string>
+	<new>
+	"../include/Viga.h"
+	"../include/funciones_viga.h"
+
+1419154131 source:c:\documents and settings\alejandro\mis documentos\curso2014_2015\vibraciones_master\viga_carga_movil_eficiente_cabeceras\src\funciones_viga.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<string>
+	<new>
+	"../include/Viga.h"
+	"../include/funciones_viga.h"
+
+1419153068 c:\documents and settings\alejandro\mis documentos\curso2014_2015\vibraciones_master\viga_carga_movil_eficiente_cabeceras\include\funciones_viga.h
+
+1419157018 source:c:\users\alex\documents\docencia\curso2016_2017\vsc1617\vsc1617_axiltorsion_vigas\programas_c++_vsc\viga_carga_movil_eficiente_cabeceras\src\viga.cpp
+	"../include/Viga.h"
+	<fstream>
+	<iostream>
+
+1419156450 c:\users\alex\documents\docencia\curso2016_2017\vsc1617\vsc1617_axiltorsion_vigas\programas_c++_vsc\viga_carga_movil_eficiente_cabeceras\include\viga.h
+
+1419162192 source:c:\users\alex\documents\docencia\curso2016_2017\vsc1617\vsc1617_axiltorsion_vigas\programas_c++_vsc\viga_carga_movil_eficiente_cabeceras\viga_carga_movil_eficiente_cabeceras.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<string>
+	<new>
+	"./include/Viga.h"
+	"./include/funciones_viga.h"
+
+1419156670 c:\users\alex\documents\docencia\curso2016_2017\vsc1617\vsc1617_axiltorsion_vigas\programas_c++_vsc\viga_carga_movil_eficiente_cabeceras\include\funciones_viga.h
+
